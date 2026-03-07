@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm currently working on great Project.<br>It is basically Jarvis type AI <br>
 
 
 ## 🌐 Socials:
