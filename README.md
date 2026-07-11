@@ -113,16 +113,6 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshu706&theme=tokyonight&row=1&column=7&margin-w=15"/>
-
-</div>
-
----
-
 ## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu706&theme=tokyo-night"/>
