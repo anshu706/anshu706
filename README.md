@@ -145,9 +145,3 @@
 > "Strong fundamentals, consistent learning, and practical problem-solving create impactful engineers."
 
 ---
-
-<div align="center">
-
-### ⭐ If you like my work, consider starring my repositories!
-
-</div>
