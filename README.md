@@ -17,13 +17,12 @@
 📚 Currently focused on:
 
 * Data Structures & Algorithms
-* Artificial Intelligence & Machine Learning
-* Backend Development
+* DevOps
 * Open Source Contributions
 
 🎯 Goal:
 
-> To become a highly skilled AI/ML Engineer capable of building scalable and impactful products.
+> To become a highly skilled DevOps Engineer capable of building scalable and impactful products.
 
 ---
 
