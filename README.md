@@ -87,32 +87,16 @@
 | ------------------- | ----------------------------------------------------------------------------------------------- | --------------------- |
 | 🎮 Minesweeper Game | Interactive GUI-based Minesweeper implementation with recursive reveal logic and OOP principles | Python, Tkinter       |
 | 🧩 Sudoku Solver    | Backtracking-based Sudoku solver with optimized validation checks                               | Python                |
-| 🕒 ChronoWall       | Dynamic live clock wallpaper project focused on UI and performance                              | HTML, CSS, JavaScript |
-| 📋 LifeDesk         | Productivity dashboard for organizing tasks and workflow                                        | HTML, CSS, JavaScript |
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anshu706&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu706&theme=tokyo-night"/>
+| 🕒 Prism       | Dynamic live clock wallpaper project focused on UI and performance                              | HTML, CSS, JavaScript |
+| 🏗️ Dashboard for Real-Time Monitoring Construction Projects| Real-time construction dashboard with 10+ data integration, 75% on-time delivery, $50K-100K savings per project | React.js, Node.js, PostgreSQL|
 
 ---
 
 ## 🌱 Currently Learning
 
 * Advanced Data Structures & Algorithms
-* Artificial Intelligence & Machine Learning
-* Backend Development with Flask & Django
+* DevOps
+* Linux
 * System Design Fundamentals
 * Open Source Development
 * Cloud Computing
